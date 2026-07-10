@@ -1,0 +1,20 @@
+/*
+* Dracula theme for javadoc — mirrors LogTheme.DRACULA.
+* Loaded after the generated stylesheet.css via --add-stylesheet,
+* so these :root overrides win without touching layout rules.
+*/
+:root{
+  /* Consistent font across body, block, and code. */
+  --body-font-family: Consolas, 'Courier New', monospace;
+  --block-font-family: Consolas, 'Courier New', monospace;
+  --code-font-family: Consolas, 'Courier New', monospace;
+  --body-background-color:#282a36; --section-background-color:#343746; --detail-background-color:#282a36;
+  --body-text-color:#f8f8f2; --block-text-color:#f8f8f2; --title-color:#bd93f9;
+  --navbar-background-color:#44475a; --navbar-text-color:#f8f8f2; --subnav-background-color:#3c3f51;
+  --selected-background-color:#bd93f9; --selected-text-color:#282a36; --selected-link-color:#ff79c6;
+  --even-row-color:#282a36; --odd-row-color:#2f3140;
+  --link-color:#8be9fd; --link-color-active:#ff79c6;
+  --snippet-background-color:#343746; --snippet-highlight-color:#f1fa8c;
+  --border-color:#44475a; --table-border-color:#6272a4;
+  --search-input-background-color:#343746; --search-input-text-color:#f8f8f2; --copy-icon-brightness:300%;
+}

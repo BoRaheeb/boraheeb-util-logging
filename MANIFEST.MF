@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Implementation-Title: boraheeb-util-logging
+Implementation-Version: 1.0.0
+Implementation-Vendor: BoRaheeb
+Automatic-Module-Name: boraheeb.util.logging
+Created-By: BellSoft Liberica JDK 21.0.11
